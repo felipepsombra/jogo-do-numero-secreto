@@ -2,8 +2,7 @@
 
 This is a simple secret number guessing game developed using HTML, CSS, and JavaScript. The player tries to guess a number between 1 and 10, with hints provided after each guess. The goal is to discover the secret number in as few attempts as possible.
 
-(![Captura de tela 2024-06-23 155507](https://github.com/felipepsombra/jogo_do_numero_secreto/assets/130610742/a84e9a0b-9dde-488e-8b60-f2408ccaab01)
-)
+![Captura de tela 2024-06-23 155507](https://github.com/felipepsombra/jogo_do_numero_secreto/assets/130610742/a84e9a0b-9dde-488e-8b60-f2408ccaab01)
 
 ## How to Play
 
