@@ -33,4 +33,4 @@ Este é um simples jogo de adivinhação do número secreto desenvolvido usando 
 
 ## Contribuições
 
-Contribuições são bem-vindas! Se você tiver sugestões para melhorias, correções de bugs ou novas funcionalidades que gostaria de adicionar, sinta-se à vontade para abrir um issue ou enviar um pull request.
+Contribuições são bem-vindas!
