@@ -30,7 +30,3 @@ Este é um simples jogo de adivinhação do número secreto desenvolvido usando 
 - CSS
 - JavaScript
 - [ResponsiveVoice.js](https://responsivevoice.org/): Para funcionalidades de texto para voz.
-
-## Contribuições
-
-Contribuições são bem-vindas!
